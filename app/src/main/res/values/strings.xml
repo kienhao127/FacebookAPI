@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">facebook api</string>
+    <string name="facebook_app_id">159049788159693</string>
+    <string name="fb_login_protocol_scheme">fb159049788159693</string>
+    <string name="profile">Profile</string>
+    <string name="no_email_perm">Email permission not granted</string>
+</resources>
